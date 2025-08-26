@@ -1,5 +1,13 @@
 // 217. Contains Duplicate LeetCode Solution
 
+
+/* PERSONAL NOTE:
+We initially attempted to solve the problem with 2 loops focused around array's to compare the values. However, the brute force method had a runtime error due to the time limit being exceeded. To fix this we learned how to use a Set().
+
+Since set's only allow unique values, we can check if the value already exisits in the set prior to adding it. If the set already contains the num, then we return ture, else we continue until all of the input has been checked. 
+
+*/
+
 /**
  * @param {number[]} nums
  * @return {boolean}
@@ -19,15 +27,9 @@ var containsDuplicate = function (nums) {
 };
 
 /*
-217. Contains Duplicate
-Attempted
-Easy
-Topics
-premium lock icon
-Companies
-Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
+217. Contains Duplicate - EASY
 
- 
+Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
 
 Example 1:
 
@@ -54,8 +56,6 @@ Example 3:
 Input: nums = [1,1,1,3,3,4,3,2,4,2]
 
 Output: true
-
- 
 
 Constraints:
 
