@@ -23,6 +23,7 @@ var groupAnagrams = function (strs) {
       let currentSecondValue = strs[j];
 
       if (currentValue.length == currentSecondValue.length) {
+        
         // THIRD LOOP TO CHECK IF VALUES ARE ARRAY
         for (let k = 0; k < currentValue.length; k++) {
           let isAnagram = false;
