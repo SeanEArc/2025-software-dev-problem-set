@@ -3,6 +3,12 @@
 HOW IT WORKS:
 We used Group Anagrams as a base for the problem since the problems are somewhat similar. We created a dictionary to keep track of the frequency of each number in the input array. After that, we converted the dictionary into an array of entries and sorted the values in decending order. Finally, we looped through the sorted entries. We used another for loop to push the associated keys of the sorted values into a new array until we reached k, then returned the dummyArray.
 
+New item learned: Object.entries() method
+Object.entries returns an array from a dictionary. Each item in the array is a subarray with two items, the key and the value.
+Ex) 
+dummyDict = {1: 3, 2: 2, 3: 1}
+Object.entries(dummyDict) would return [[1, 3], [2, 2], [3, 1]]
+
 
 */
 
