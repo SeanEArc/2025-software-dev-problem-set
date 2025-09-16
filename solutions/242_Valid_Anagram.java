@@ -2,6 +2,7 @@
 // https://leetcode.com/problems/valid-anagram/
 
 import java.util.HashMap;
+import java.util.Map;
 
 class Solution {
     public boolean isAnagram(String s, String t) {

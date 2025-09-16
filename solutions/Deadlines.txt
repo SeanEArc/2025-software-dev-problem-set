@@ -1,0 +1,31 @@
+Course timeline 
+●  Kickoff Meeting - August 22nd - 6-7pm CST 
+○  Introduction to Data Structure & Algorithm problems, their role in 
+technical interviews, and an overview of the program’s format and 
+expectations. 
+●  Week 1 - August 23rd - August 29th  ✅
+○  Problems #1-4 
+●  Week 2 - August 30th - September 5th ✅
+○  Problems #4-8 
+●  Week 3 - September 6th - September 12th ✅
+○  Problems #9-12 
+●  Week 4 - September 13th - September 19th 
+○  Problems #12-16 
+●  Week 5 - September 20th - September 26th 
+○  Review week (Reviewing a mix of problems from #1-16 to cement 
+understanding) 
+●  Week 6 - September 27th - October 3rd 
+○  Problems #17- 20 
+●  Week 7 - October 4th - October 10th 
+○  Problems #21 - 24 
+●  Week 8 - October 11th - October 17th 
+○  Problems #25 - 28 
+●  Week 9 - October 18th - October 24th 
+○  Problems #29 - 32 
+●  Week 10 - October 25th - October 31st 
+○  Problems #32 - 36 
+●  Week 11 - November 1st - November 7th 
+○  Review Week (Reviewing a mix of problems from #17- 36) 
+●  Week 12 - November 8th - November 14th 
+○  Comprehensive review week (Reviewing a mix of problems from #1 - 
+36 
